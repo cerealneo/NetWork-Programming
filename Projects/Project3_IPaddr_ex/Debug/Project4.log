@@ -1,0 +1,3 @@
+﻿  소스.cpp
+D:\19110091\Projects\Project4\소스.cpp(27,7): warning C4101: 'ipv4str' :참조되지 않은 지역 변수입니다.
+  Project4.vcxproj -> D:\19110091\Projects\Project9\Debug\Project4.exe

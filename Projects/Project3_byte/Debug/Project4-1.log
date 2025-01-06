@@ -1,0 +1,6 @@
+﻿  소스1.cpp
+소스1.obj : error LNK2005: "void __cdecl err_display(int)" (?err_display@@YAXH@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스1.obj : error LNK2005: "void __cdecl err_display(char const *)" (?err_display@@YAXPBD@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스1.obj : error LNK2005: "void __cdecl err_quit(char const *)" (?err_quit@@YAXPBD@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스1.obj : error LNK2005: _main이(가) 소스.obj에 이미 정의되어 있습니다.
+D:\19110091\Projects\Project4-1\Debug\Project4-1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
